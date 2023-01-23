@@ -3,7 +3,7 @@ Tiller push/pull based autohelm for a sailboat. Project includes C++ code, CAD f
 This design was started in June, 2021 and it is almost complete, just requiring a few more 3D printed parts, the GUI design to be finished,
 and final PID tuning on the boat. 
 
-Commercial auto helms are available for a boats using a tiller instead of a wheel (wheel or rudder moving auto helms are much more common) but they are expensive
+Commercial auto helms are available for boats using a tiller instead of a wheel (wheel or rudder moving auto helms are much more common) but they are expensive
 for the quality of product you get. They are often loud, have primitive controls, and require a separate power source on the boat (which our boat does not have).
 The goal of this project was to create an autohelm that was fully battery operated, had a better user interface experience, and was very quiet in operation. 
 
