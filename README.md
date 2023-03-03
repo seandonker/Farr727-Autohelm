@@ -33,5 +33,5 @@ The tiller arm receiver has a more power efficient and slower microcontroller (T
   <img src="https://user-images.githubusercontent.com/121892380/211087054-d004be87-71da-4902-a3eb-5f1a337102f1.jpg" width="275" />
 </p>
 <b>FINISHING TOUCHES<br>
-Before the system can be tested, the GUI has to be roughly finished in order to change PID values on the fly. As for 3D printed parts, a mounting bracket where the controller can slide into needs to be designed. After testing the system and tuning of the motor current on the motor driver, a cover for the tiller arm will be designed and printed as well. The final step will likely be making the GUI look more professional with graphics and better element alignment.  
+Before the system can be tested, the GUI has to be roughly completed in order to change PID values on the fly. As for 3D printed parts, a mounting bracket where the controller can slide into needs to be designed. After testing the system and tuning of the motor current on the motor driver, a cover for the tiller arm will be designed and printed as well. The final step will likely be making the GUI look more professional with graphics and better element alignment.  
 
