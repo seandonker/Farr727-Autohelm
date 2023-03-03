@@ -26,10 +26,11 @@ The controller unit features a relatively powerful arm microcontroller (Teensy 4
 <b>TILLER ARM RECEIVER<br>
 The tiller arm receiver has a more power efficient and slower microcontroller (Teensy LC) as its main function is to receive the PID data, run the PID loop, and create the desired pulses for the stepper motor driver and none of those routines require much processing. The trinamic 2209 stepper motor driver was used because of its patented quiet step function so the motor operates almost silently. To power the unit, 12 18650 batteries were used in a 6s2p configuration to provide a maximum of 25.2 volts for the motor driver. This high voltage allows the motor to spin faster as the high voltage overcomes the back EMF reducing the risk of stalling and stuttering. The microcontroller monitors the voltage of the battery pack through a voltage divider and periodically sends back the value to be displayed on the control unit. 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/121892380/211089859-366ed124-19c5-4137-8fcb-ffda074a8cf4.jpg" width="225" />
-  <img src="https://user-images.githubusercontent.com/121892380/211087014-2091acc4-ef81-4114-ab59-10ca04f46ff1.jpg" width="225" />
-  <img src="https://user-images.githubusercontent.com/121892380/211087033-18189b5c-aa84-4c96-986b-88a4c8463b72.jpg" width="225" />
-  <img src="https://user-images.githubusercontent.com/121892380/211087054-d004be87-71da-4902-a3eb-5f1a337102f1.jpg" width="225" />
+  <img src="https://user-images.githubusercontent.com/121892380/211089859-366ed124-19c5-4137-8fcb-ffda074a8cf4.jpg" width="250" />
+  <img src="https://user-images.githubusercontent.com/121892380/211087014-2091acc4-ef81-4114-ab59-10ca04f46ff1.jpg" width="250" />
+  <img src="https://user-images.githubusercontent.com/121892380/222808660-f863f8d0-dad8-48e3-bd90-84df4c73f221.jpg" width="250" />
+  <img src="https://user-images.githubusercontent.com/121892380/211087033-18189b5c-aa84-4c96-986b-88a4c8463b72.jpg" width="275" />
+  <img src="https://user-images.githubusercontent.com/121892380/211087054-d004be87-71da-4902-a3eb-5f1a337102f1.jpg" width="275" />
 </p>
 <b>FINISHING TOUCHES<br>
 Before the system can be tested, the GUI has to be roughly finished in order to change PID values on the fly. As for 3D printed parts, a mounting bracket where the controller can slide into needs to be designed. After testing the system and tuning of the motor current on the motor driver, a cover for the tiller arm will be designed and printed as well. The final step will likely be making the GUI look more professional with graphics and better element alignment.  
