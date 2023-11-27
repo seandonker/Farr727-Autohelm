@@ -1,4 +1,9 @@
+<b>Project Update<br>
+   --------------
+Because of different factors such as school, work, and living location, our Farr Sailboat will likely not see water for a few years. For this reason, the project has been halted as on-boat testing is needed for any further programming.
+
 # Farr727-Autohelm
+
 Tiller push/pull based autohelm for a sailboat. Project includes C++ code, CAD files, circuit board files, and pictures. 
 This design was started in June, 2021 and it is almost complete, just requiring a few more 3D printed parts, the GUI design to be finished,
 and final PID tuning on the boat. 
